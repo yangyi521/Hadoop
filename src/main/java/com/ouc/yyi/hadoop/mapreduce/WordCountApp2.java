@@ -17,7 +17,7 @@ import java.io.IOException;
  * @author: yyi
  * @date: 2018/7/16 16:22
  * @parameters:
- * @desc:使用mapreduce开发wordCount
+ * @desc:使用mapreduce开发wordCount,设置删除路径
  **/
 public class WordCountApp2 {
     /**
